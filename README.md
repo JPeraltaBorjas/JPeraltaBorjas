@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/JPeraltaBorjas/JPeraltaBorjas/blob/2066b7dfeb59e7a338de7e69e31ccf7e74249381/image/Banner%20para%20GitHub.png"  />
+  <img height="230" src="https://github.com/JPeraltaBorjas/JPeraltaBorjas/blob/2066b7dfeb59e7a338de7e69e31ccf7e74249381/image/Banner%20para%20GitHub.png"  />
 </div>
 
 ###
